@@ -22,4 +22,10 @@
     <string name="main_lagi">Main Lagi!</string>
     <string name="pertanyaan_kosong">Belum ada pertanyaan nih, isi dulu di menu "ubah peretanyaan"</string>
     <string name="logout">Logout</string>
+    <string name="message">%1$s diklik!</string>
+    <string name="koneksi_error">Koneksi error</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data otomatis</string>
+    <string name="notif_title">Ada data baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
 </resources>
